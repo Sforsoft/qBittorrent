@@ -3076,7 +3076,7 @@ Czy powiązać qBittorrent z plikami torrent i odnośnikami magnet?</translation
     <message>
         <location filename="../gui/mainwindow.cpp" line="1209"/>
         <source>Some files are currently transferring.</source>
-        <translation>Niektóre pliki są obecnie przenoszone.</translation>
+        <translation>Niektóre pliki są obecnie przesyłane.</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.cpp" line="1209"/>
